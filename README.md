@@ -4,7 +4,7 @@ I'm a programmer who loves cats, coffee and anything with dangerously high level
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivrnair&hide=php,c,vim%20script,objective-c,actionscript,roff,html,css,scss,javascript&langs_count=5&layout=compact)](https://github.com/rajivrnair)
 
-**Summary or Recent Skills:** _Java, Kotlin, Android Native, Python, Ruby, SQL, JS. Cloud: AWS, some experience with GCP and DO._
+**Recent Skills:** _Java, Kotlin, Android Native, Python, Ruby, SQL, JS. Cloud: AWS, some experience with GCP and DO._
 
 
 📖 [My reading list](https://www.goodreads.com/review/list/939736?shelf=currently-reading)
