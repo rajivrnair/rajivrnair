@@ -2,7 +2,7 @@
 
 I'm a programmer who loves cats, coffee and anything with dangerously high levels of saturated fats. If you've worked with me before, well, _insanity_ is my only defence 😸.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivrnair&hide=php,c,vim%20script,objective-c,actionscript,roff,html,css,scss,javascript&langs_count=5&layout=compact)](https://github.com/rajivrnair)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivrnair&hide=php,c,vim%20script,objective-c,actionscript,roff,html,css,scss,javascript&langs_count=5&layout=compact)](https://github.com/rajivrnair) --> 
 
 **Recent Skills:** _Java, Kotlin, Android Native, Python, Ruby, SQL, JS. Cloud: AWS, some experience with GCP and DO._
 
