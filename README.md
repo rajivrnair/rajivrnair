@@ -11,12 +11,12 @@ I'm a programmer who loves cats, coffee and anything with dangerously high level
 
 📫 [Reach me on Linkedin](https://www.linkedin.com/in/rajivrnair/)
 
-
+<!--
 <p align="center">
   <img width="100%" height="25%" src="https://github.com/rajivrnair/rajivrnair/assets/423427/8d11d0a8-b12f-45bd-945a-81f606e75a40" alt="my banner">
 </p>
+-->
 
-
-<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>
-
+<br/>
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a><br/>
 <a href="https://www.flaticon.com/free-icons/goodreads" title="goodreads icons">Goodreads icons created by Freepik - Flaticon</a>
